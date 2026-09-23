@@ -1,0 +1,6 @@
+node_modules/
+*.env
+cloudflared.exe
+expenses.db
+node/
+node.zip
